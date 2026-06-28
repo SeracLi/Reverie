@@ -10,7 +10,7 @@
 
 ## 文档
 
-- [docs/design/](docs/design/) — 玩法设计 v0.1
+- [docs/design/](docs/design/) — 玩法设计 + 用户旅程图 v1.0
 - [docs/research/](docs/research/) — Tipsy 调研、参考产品拆解
 - [prototype/](prototype/) — First Session 可点切片(规划中)
 
