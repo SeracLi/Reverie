@@ -11,7 +11,7 @@
 ## 文档
 
 - [docs/design/](docs/design/) — 玩法设计 + 用户旅程图 v1.0
-- [docs/research/](docs/research/) — Tipsy 调研、参考产品拆解
+- [docs/research/](docs/research/) — Tipsy 调研、参考产品拆解、[角色图微动效技术调研](docs/research/角色图微动效-技术调研/)
 - [prototype/](prototype/) — First Session 可点切片(规划中)
 
 ## 团队
